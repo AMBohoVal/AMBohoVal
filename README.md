@@ -69,7 +69,7 @@ Analytical professional and a team player, capable of timely solving problems, f
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AMBohoVal&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AMBohoVal.AMBohoVal)
+![Profile views](https://gpvc.arturio.dev/AMBohoVal)
 
 ---
 
