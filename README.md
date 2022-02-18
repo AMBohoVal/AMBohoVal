@@ -70,6 +70,7 @@ Analytical professional and a team player, capable of timely solving problems, f
 ![github stats](https://github-readme-stats.vercel.app/api?username=AMBohoVal&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/AMBohoVal)
+<a href="https://www.linkedin.com/in/aurambohorquezv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
